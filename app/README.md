@@ -25,7 +25,7 @@ GIF created with [Ezgif](https://ezgif.com/)
 Describe any challenges encountered while building the app.
 - I had some issues with the emulator, but I managed to fix it.
 - I had some issues with the emulator, but I managed to fix it.
-- Kap was not being downloaded succesfully on my Mac, so I used giphy to record the gif.
+- Kap was not being downloaded succesfully on my Mac, so I used Ezgif to record the gif.
 
 ## License
 
