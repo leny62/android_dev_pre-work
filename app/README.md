@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] App Title is displayed on screens
+* [x] App Title is displayed on screens
 
 Here's a walkthrough of implemented features:
 <img src='https://res.cloudinary.com/devvsg4p1/image/upload/v1675629849/android_dev_gif_gyuvxl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
@@ -23,9 +23,8 @@ GIF created with [Ezgif](https://ezgif.com/)
 ## Notes
 
 Describe any challenges encountered while building the app.
-- I had some issues with the emulator, but I managed to fix it.
-- I had some issues with the emulator, but I managed to fix it.
-- Kap was not being downloaded succesfully on my Mac, so I used Ezgif to record the gif.
+- I had some issues with the emulator, but I managed to fix them.
+- Kap was not being downloaded successfully on my Mac, so I used Ezgif to record the gif.
 
 ## License
 
