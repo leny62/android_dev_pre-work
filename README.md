@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] App Title is displayed on screens
+* [x] App Title is displayed on screens
 
 Here's a walkthrough of implemented features:
 <img src='https://res.cloudinary.com/devvsg4p1/image/upload/v1675629849/android_dev_gif_gyuvxl.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
